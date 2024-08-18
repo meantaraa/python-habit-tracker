@@ -21,7 +21,7 @@ This project is a Python-based habit tracker that uses the Pixela API to log and
    i. git clone https://github.com/meantaraa/python-habit-tracker.git
    ii. cd python-habit-tracker
    
-2. Update main.py with your own Pixela Credentials 
+2. Update main.py with your own Pixela Credentials: 
    i. USERNAME: Your Pixela username
    ii. TOKEN: Your Pixela token
    iii. GRAPH_ID: The ID of your graph (e.g., "graph1")
