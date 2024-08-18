@@ -1,6 +1,6 @@
 # Project Description
 
-This project is a Python-based habit tracker that uses the Pixela API to log and visualize your habits over time. The habit tracker allows you to create a graph, add data (e.g., the number of hours you studied), and update that data directly on Pixela. The Pixela platform helps visualize your daily habit data in a clean and intuitive manner. After implementing this project your habit tracking graph may look like [this](https://pixe.la/v1/users/a-young/graphs/graph1.html).]
+This project is a Python-based habit tracker that uses the Pixela API to log and visualize your habits over time. The habit tracker allows you to create a graph, add data (e.g., the number of hours you studied), and update that data directly on Pixela. The Pixela platform helps visualize your daily habit data in a clean and intuitive manner. After implementing this project your habit tracking graph may look like [this](https://pixe.la/v1/users/a-young/graphs/graph1.html).
 
 # Features
 
