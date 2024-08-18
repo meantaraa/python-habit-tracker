@@ -16,3 +16,15 @@ This project is a Python-based habit tracker that uses the Pixela API to log and
 2. requests library
 - You can install the required dependencies by running: pip install requests
 
+# Setup Instructions
+1. Clone the repository:
+   i. git clone<repo url>
+   ii. cd python-habit-tracker
+   
+2. Update main.py with your own Pixela Credentials 
+   i. USERNAME: Your Pixela username
+   ii. TOKEN: Your Pixela token
+   iii. GRAPH_ID: The ID of your graph (e.g., "graph1")
+   
+# Run the Script
+After setting up your credentials, run the script.
