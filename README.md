@@ -18,7 +18,7 @@ This project is a Python-based habit tracker that uses the Pixela API to log and
 
 # Setup Instructions
 1. Clone the repository:
-   i. git clone<repo url>
+   i. git clone https://github.com/meantaraa/python-habit-tracker.git
    ii. cd python-habit-tracker
    
 2. Update main.py with your own Pixela Credentials 
